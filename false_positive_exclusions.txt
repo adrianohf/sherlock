@@ -4,8 +4,8 @@ Airliners
 Apple Discussions
 Archive.org
 ArtStation
+Audiojungle
 Bandcamp
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -14,6 +14,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Minecraft
@@ -23,7 +24,6 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -39,7 +39,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
