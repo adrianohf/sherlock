@@ -1,21 +1,17 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DEV Community
 Discord.bio
 Envato Forum
 Giphy
-Gumroad
 Hashnode
 Hubski
 LessWrong
 Motherless
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,4 +33,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
