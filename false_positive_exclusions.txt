@@ -4,17 +4,17 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
-Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
 LessWrong
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -28,6 +28,7 @@ Spotify
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -35,4 +36,5 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 svidbook
