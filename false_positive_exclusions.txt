@@ -8,6 +8,7 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Fosstodon
 GeeksforGeeks
 Giphy
 Hashnode
