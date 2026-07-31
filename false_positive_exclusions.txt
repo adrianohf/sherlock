@@ -8,6 +8,7 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -15,13 +16,11 @@ Giphy
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -32,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Weblate
